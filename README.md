@@ -6,15 +6,14 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=duardoliveiras&show_icons=true&count_private=true&hide_border=true&title_color=94c2e3&icon_color=16537&text_color=94c2e3&bg_color=0d1117" alt="Eduardo Oliveira github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duardoliveiras&layout=compact&hide_border=true&title_color=94c2e3&text_color=94c2e3&bg_color=0d1117" />
+</div>
 
 
 
-
-
+<div align="center">  
 <a href = "mailto:duardooliveiras@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/duardooliveiras/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-
-  <a href="https://www.hackerrank.com/duardooliveiras" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.hackerrank.com/duardooliveiras" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  
  
  
