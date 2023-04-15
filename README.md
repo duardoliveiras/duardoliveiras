@@ -1,4 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0074c5&height=120&section=header"/>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94c2e3&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD,+My+name+is+Eduardo+Oliveira;I'm+21+years+old;I'm+from+Brazil;Computer+engineering+student;É+Nós!)](https://git.io/typing-svg)
@@ -35,4 +34,4 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
   
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0074c5&height=120&section=footer"/>
+
