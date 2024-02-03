@@ -21,4 +21,4 @@ Eu sou Eduardo Oliveira, um desenvolvedor backend, finalizando o curso de Engenh
 - Email: duardodev@gmail.com
 - LinkedIn: [Eduardo Oliveira](https://www.linkedin.com/in/duardooliveiras/)
 
-Abaixo destaco os meus principais projetos ⬇️
+#### ⬇️ Abaixo destaco os meus principais projetos
