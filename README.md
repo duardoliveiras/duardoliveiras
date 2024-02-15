@@ -2,11 +2,6 @@
 
 Eu sou Eduardo Oliveira, um desenvolvedor backend, finalizando o curso de Engenharia de Computação.
 
-### 🌱 Estou praticando
-
-- Desenvolvimento Web com Java Spring e Angular
-- Ciência de Dados com Python
-
 ### 💼 Tenho habilidades com
 
 - **Linguagens de Programação**: `Java`, `PHP`, `C#`, `Python`, `C/C++`, `PL/SQL`
@@ -14,7 +9,6 @@ Eu sou Eduardo Oliveira, um desenvolvedor backend, finalizando o curso de Engenh
 - **Banco de Dados**: `PostgreSQL`, `Oracle`, `MySQL`, `SQLite3`
 - **Ferramentas**: `Docker`, `Power BI`, `Excel`
 - **Controle de Versão**: `Git`, `GitHub`, `Gitlab`
-
 
 ### 📫 Como me encontrar
 
