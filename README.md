@@ -10,8 +10,7 @@ Eu sou Eduardo Oliveira, um desenvolvedor backend, finalizando o curso de Engenh
 - **Ferramentas**: `Docker`, `Power BI`, `Excel`
 - **Controle de Versão**: `Git`, `GitHub`, `Gitlab`
 
-### 📫 Como me encontrar
-
+### 📫 Contato
 - Email: duardodev@gmail.com
 - LinkedIn: [Eduardo Oliveira](https://www.linkedin.com/in/duardooliveiras/)
 
