@@ -4,8 +4,8 @@ Eu sou Eduardo Oliveira, um desenvolvedor backend, finalizando o curso de Engenh
 
 ### 💼 Tenho habilidades com
 
-- **Linguagens de Programação**: `Java`, `PHP`, `C#`, `Python`, `C/C++`, `PL/SQL`
-- **Frameworks/Libraries**: `Angular`, `Spring boot`, `Laravel`, `ASP.NET`, `TensorFlow`
+- **Linguagens de Programação**: `TypeScript`, `Java`, `PHP`, `Python`, `C/C++`, `PL/SQL`
+- **Frameworks/Libraries**: `Angular`, `Express`, `Spring boot`, `Laravel`, `TensorFlow`
 - **Banco de Dados**: `PostgreSQL`, `Oracle`, `MySQL`, `SQLite3`
 - **Ferramentas**: `Docker`, `Power BI`, `Excel`
 - **Controle de Versão**: `Git`, `GitHub`, `Gitlab`
