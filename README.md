@@ -1,6 +1,6 @@
 ## Hello, world!
 
-Eu sou Eduardo Oliveira, um desenvolvedor backend, finalizando o curso de Engenharia de Computação.
+Eu sou Eduardo Oliveira, um desenvolvedor full stack, finalizando o curso de Engenharia de Computação.
 
 ### 💼 Tenho habilidades com
 
