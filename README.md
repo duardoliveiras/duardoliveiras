@@ -1,17 +1,23 @@
 ## Hello, world!
 
-Eu sou Eduardo Oliveira, um desenvolvedor full stack, finalizando o curso de Engenharia de Computação.
+I'm a full stack developer working at a web gis company and I'm finishing my degree in Computer Engineering.
 
-### 💼 Tenho habilidades com
+### 💼 Skills:
 
-- **Linguagens de Programação**: `TypeScript`, `Java`, `PHP`, `Python`, `C/C++`, `PL/SQL`
+- **Programming Language**: `TypeScript`, `Java`, `PHP`, `Python`, `C/C++`, `PL/SQL`
 - **Frameworks/Libraries**: `React`, `Angular`, `Express`, `Spring boot`, `Laravel`, `TensorFlow`, `PostGIS`
-- **Banco de Dados**: `PostgreSQL`, `Oracle`, `MySQL`, `SQLite3`
-- **Ferramentas**: `Docker`, `Power BI`, `Excel`
-- **Controle de Versão**: `Git`, `GitHub`, `Gitlab`
+- **Database**: `PostgreSQL`, `Oracle`, `MySQL`, `SQLite3`
+- **Tools**:  `Git`, `Docker`, `Power BI`, `Excel`
 
-### 📫 Contato
+### 📫 Contact
 - Email: duardodev@gmail.com
 - LinkedIn: [Eduardo Oliveira](https://www.linkedin.com/in/duardooliveiras/)
 
-#### ⬇️ Abaixo destaco os meus principais projetos
+### 📊 Statistics
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duardoliveiras&show_icons=true&locale=en&layout=compact" alt="duardoliveiras" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duardoliveiras&" alt="duardoliveiras" /></p>
+
+#### ⬇️ Below I highlight my main projects
+
