@@ -8,7 +8,7 @@
 - **Programming Language**: `TypeScript`, `Java`, `PHP`, `Python`, `C/C++`, `PL/SQL`
 - **Frameworks/Libraries**: `React`, `Angular`, `Express`, `Spring boot`, `Laravel`, `TensorFlow`, `PostGIS`
 - **Database**: `PostgreSQL`, `Oracle`, `MySQL`, `SQLite3`
-- **Tools**:  `Git`, `Docker`, `Power BI`, `Excel`
+- **Tools**:  `Git`, `Docker`, `GeoServer`, `Power BI`, `Excel`
 
 ### 📫 Contact
 - Email: duardodev@gmail.com
