@@ -5,9 +5,9 @@
 
 ### 💼 Skills:
 
-- **Programming Language**: `TypeScript`, `Java`, `PHP`, `Python`, `C/C++`, `PL/SQL`
-- **Frameworks/Libraries**: `React`, `Angular`, `Express`, `Spring boot`, `Laravel`, `TensorFlow`, `PostGIS`
-- **Database**: `PostgreSQL`, `Oracle`, `MySQL`, `SQLite3`
+- **Programming Language**: `TypeScript`, `Python`, `Java`, `C/C++`, `PHP`, 
+- **Frameworks/Libraries**: `NestJS`, `React`, `Express`, `Spring boot`, `Laravel`, `TensorFlow`, `PostGIS`, `Angular`
+- **Database**: `PostgreSQL`, `SQLite3`, `Oracle`, `MySQL`
 - **Tools**:  `Git`, `Docker`, `GeoServer`, `Power BI`, `Excel`
 
 ### 📫 Contact
